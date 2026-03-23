@@ -33,4 +33,4 @@ public class Main {
         }
     }
 }
-//Da um 10zinho pra nós!!! Hahaha
+//Merecemos um 10!!
